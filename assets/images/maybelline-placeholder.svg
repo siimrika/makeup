@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <rect width="400" height="400" fill="#fffde7"/>
+  <rect width="400" height="6" fill="#ffcc00"/>
+  <rect y="394" width="400" height="6" fill="#ffcc00"/>
+  <circle cx="200" cy="160" r="70" fill="#ffcc00" opacity="0.3"/>
+  <circle cx="200" cy="160" r="50" fill="#ffcc00" opacity="0.5"/>
+  <ellipse cx="200" cy="220" rx="45" ry="60" fill="#1a1a1a" opacity="0.08"/>
+  <rect x="170" y="130" width="60" height="90" rx="30" fill="#1a1a1a" opacity="0.15"/>
+  <text x="200" y="310" font-family="Georgia,serif" font-size="22" font-weight="bold" fill="#1a1a1a" text-anchor="middle">MAYBELLINE</text>
+  <text x="200" y="335" font-family="Georgia,serif" font-size="12" fill="#555" text-anchor="middle" font-style="italic">Maybe She's Born With It</text>
+</svg>
